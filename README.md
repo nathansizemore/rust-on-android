@@ -18,7 +18,7 @@ rustc: 1.0.0-dev (46f649c47 2015-03-18) (built 2015-03-18)
 cargo: 0.0.1-pre-nightly (07cd618 2015-03-12) (built 2015-03-13)
 ~~~
 
-The same commands will also work for Linux.  Additional dependencies may be needed for working with the Android build chain on 64-bit Linux distros. [This](http://stackoverflow.com/questions/2710499/android-sdk-on-a-64-bit-linux-machine) [Stackoverflow](http://stackoverflow.com/) posting covers most major distribution dependencies.
+The same commands will also work for Linux.  Additional dependencies may be needed for working with the Android build chain on 64-bit Linux distros. [This](http://stackoverflow.com/questions/2710499/android-sdk-on-a-64-bit-linux-machine) posting covers most major distribution dependencies.
 
 ---
 
