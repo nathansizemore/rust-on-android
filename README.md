@@ -8,7 +8,7 @@
 ---
 
 ### Document Examples
-The examples in this document use the following software versions:
+The examples in this document were tested with the following software versions:
 
 ~~~
 OS X: 10.10.2 (14C1510)
